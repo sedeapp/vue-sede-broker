@@ -1,0 +1,29 @@
+{
+  "name": "@sedeapp/vue-sede-broker",
+  "version": "0.1.0",
+  "description": "Plugin wrapper to use SedeBroker with Vue.",
+  "browser": "./src/vueSedeBroker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sedeapp/vue-sede-broker.git"
+  },
+  "keywords": [
+    "vue",
+    "sede",
+    "simple",
+    "broker"
+  ],
+  "author": "Rafael Ribeiro (https://github.com/nokcode)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sedeapp/vue-sede-broker/issues"
+  },
+  "homepage": "https://github.com/sedeapp/vue-sede-broker#readme",
+  "dependencies": {
+    "@sedeapp/sede-broker": "^0.1.1"
+  },
+  "devDependencies": {}
+}
